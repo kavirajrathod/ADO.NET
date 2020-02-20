@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Rest\Rest\bin\Debug\Rest.exe.config
+C:\Users\Admin\source\repos\Rest\Rest\bin\Debug\Rest.exe
+C:\Users\Admin\source\repos\Rest\Rest\bin\Debug\Rest.pdb
+C:\Users\Admin\source\repos\Rest\Rest\obj\Debug\Rest.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Rest\Rest\obj\Debug\Rest.exe
+C:\Users\Admin\source\repos\Rest\Rest\obj\Debug\Rest.pdb

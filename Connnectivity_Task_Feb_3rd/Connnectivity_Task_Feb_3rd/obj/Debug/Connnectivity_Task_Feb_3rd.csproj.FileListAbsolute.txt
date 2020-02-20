@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Connnectivity_Task_Feb_3rd\Connnectivity_Task_Feb_3rd\obj\Debug\Connnectivity_Task_Feb_3rd.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Connnectivity_Task_Feb_3rd\Connnectivity_Task_Feb_3rd\bin\Debug\Connnectivity_Task_Feb_3rd.exe.config
+C:\Users\Admin\source\repos\Connnectivity_Task_Feb_3rd\Connnectivity_Task_Feb_3rd\bin\Debug\Connnectivity_Task_Feb_3rd.exe
+C:\Users\Admin\source\repos\Connnectivity_Task_Feb_3rd\Connnectivity_Task_Feb_3rd\bin\Debug\Connnectivity_Task_Feb_3rd.pdb
+C:\Users\Admin\source\repos\Connnectivity_Task_Feb_3rd\Connnectivity_Task_Feb_3rd\obj\Debug\Connnectivity_Task_Feb_3rd.exe
+C:\Users\Admin\source\repos\Connnectivity_Task_Feb_3rd\Connnectivity_Task_Feb_3rd\obj\Debug\Connnectivity_Task_Feb_3rd.pdb

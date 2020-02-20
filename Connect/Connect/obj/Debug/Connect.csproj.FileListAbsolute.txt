@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Connect\Connect\bin\Debug\Connect.exe.config
+C:\Users\Admin\source\repos\Connect\Connect\bin\Debug\Connect.exe
+C:\Users\Admin\source\repos\Connect\Connect\bin\Debug\Connect.pdb
+C:\Users\Admin\source\repos\Connect\Connect\obj\Debug\Connect.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Connect\Connect\obj\Debug\Connect.exe
+C:\Users\Admin\source\repos\Connect\Connect\obj\Debug\Connect.pdb

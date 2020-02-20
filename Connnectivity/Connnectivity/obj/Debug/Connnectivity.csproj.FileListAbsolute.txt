@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Connnectivity\Connnectivity\bin\Debug\Connnectivity.exe.config
+C:\Users\Admin\source\repos\Connnectivity\Connnectivity\bin\Debug\Connnectivity.exe
+C:\Users\Admin\source\repos\Connnectivity\Connnectivity\bin\Debug\Connnectivity.pdb
+C:\Users\Admin\source\repos\Connnectivity\Connnectivity\obj\Debug\Connnectivity.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Connnectivity\Connnectivity\obj\Debug\Connnectivity.exe
+C:\Users\Admin\source\repos\Connnectivity\Connnectivity\obj\Debug\Connnectivity.pdb

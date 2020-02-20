@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connnectivity_Task_Feb_3rd", "Connnectivity_Task_Feb_3rd\Connnectivity_Task_Feb_3rd.csproj", "{31438758-A3BD-4AD8-BFFF-8DB32F418B84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31438758-A3BD-4AD8-BFFF-8DB32F418B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31438758-A3BD-4AD8-BFFF-8DB32F418B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31438758-A3BD-4AD8-BFFF-8DB32F418B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31438758-A3BD-4AD8-BFFF-8DB32F418B84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AF1CF6B-97B5-4F77-BF05-CA465BD72E5F}
+	EndGlobalSection
+EndGlobal
